@@ -196,6 +196,7 @@ margin-right: 25px;
 
 #contact-form ul {
 margin-bottom: 20px;
+
 }
 
 #contact-form li {
@@ -435,6 +436,7 @@ nav a {
 .main-section {
     max-width: 500px;
     margin-top: 75px;
+    
 }
 
 
@@ -460,6 +462,26 @@ p {
    background: #fff;
    border: 1px solid #ddd;
    margin-bottom: 50px;
+   
+}
+
+.center-mobile {
+  float: none;
+}
+
+.portfolio-connect-mobile {
+  margin-right: 75px;
+  margin-left: 75px;
+}
+
+.portfolio-main-mobile {
+      margin-bottom: 40px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.work {
+  width: 430px;
 }
 
 h1 {
