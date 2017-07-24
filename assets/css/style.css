@@ -338,10 +338,10 @@ h3 {
 
 #logo {
 
-   width: 250px;
+   width: 270px;
    font-size: 27px;
    margin-right: 25px;
-   margin-left: 25px;
+   margin-left: 10px;
 }
 
 .container {
@@ -411,7 +411,7 @@ h3 {
 
 
 .wrapper {
-   width: 500px;
+   width: 640px;
 }
 
 #logo {
@@ -465,17 +465,7 @@ p {
    
 }
 
-.center-mobile {
-  float: none;
-}
-
-.portfolio-connect-mobile {
-  margin-right: 75px;
-  margin-left: 75px;
-}
-
-.portfolio-main-mobile {
-      margin-bottom: 40px;
+.mobile-centering {
     margin-left: 75px;
     margin-right: 75px;
 }
