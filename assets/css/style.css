@@ -336,9 +336,11 @@ font-size: 20px;
 }
 
 #logo {
-    float: left;
+  
     width: 250px;
     font-size: 27px;
+    margin-right: 25px;
+    margin-left: 25px;
   }
 
 .container {
@@ -347,13 +349,24 @@ font-size: 20px;
 
 
 .main-section {
-    max-width: 350px;
-    margin: 50px;
+    max-width: 650px;
+    margin-top: 40px;
+    float: left;
 }
 
 p {
     margin-bottom: 20px;
-    font-size: 16px;}
+    font-size: 16px;
+  }
+
+  p:last-child {
+margin-top: 50px;
+}
+
+.text1 {
+  float: right;
+  width: 275px;
+}
 
 .auth-image {
 float: none;
@@ -365,13 +378,14 @@ margin-bottom: 10px;
 }
 
 .sidebar {
-  margin: 0 auto;
+  float: left;
     width: 100%;
-    max-width: 250px;
+    max-width: 650px;
+
     padding: 20px;
     background: #fff;
     border: 1px solid #ddd;
-    margin: 50px;
+    margin-top: 10px;
 }
 
 h1 {
