@@ -432,9 +432,7 @@ v6
 @media screen and (max-width: 640px) and (min-width: 0px) {
     
     /* header */
-    .container {
-        width: 500px;
-    }
+    
 
     .wrapper {
         width: 640px;
